@@ -5,5 +5,4 @@
         "emitDecoratorMetadata": true,
         "moduleResolution": "Node"
     }
-    
 }
